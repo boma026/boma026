@@ -5,6 +5,12 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boma026"/>
 </div>
 
+<h2>🌐Sobre mim </h2>
+<ul>
+  <li>🎓Estudante de <strong>Tencnlogia da informação</strong></li>
+  <li>💻Me aprofundando em <strong>Desenvolvimento Web</strong> e <strong>Bancos de Dados</strong> </li>
+</ul>
+
 ## Tecnologias 
 
 <div style="display: inline_block">
