@@ -4,7 +4,7 @@
 <div>
   <a href="https://www.linkedin.com/in/arthur-boma-217b111a3/"> <img src="https://img.icons8.com/?size=30&id=13930&format=png&color=000000" alt="linkedin"/></a>
   <a href="mailto: arthurboma@yahoo.com.br"> <img src="https://img.shields.io/badge/Email-1C1C1C?style=for-the-badge&logo=gmail&logoColor=red" alt="email"/></a>
-  <a href="curriculo.pdf"> <img src="https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="curriculo"/></a>
+  <a href="https://raw.githubusercontent.com/boma026/boma026/main/curriculo.pdf"> <img src="https://img.shields.io/badge/-Meu%20Curr%C3%ADculo-1C1C1C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="curriculo"/></a>
 </div>
 
 <h2>🌐Sobre mim </h2>
