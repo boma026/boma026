@@ -9,8 +9,8 @@
 
 <h2>🌐Sobre mim </h2>
 <ul>
-  <li>🎓Estudante de <strong>Tencnlogia da informação</strong></li>
-  <li>💻Me especializando em <strong>Desenvolvimento Web Fullstack</strong> </li>
+  <li>🎓Graduando em <strong>Tencnlogia da informação</strong></li>
+  <li>💻<strong>Desenvolvedor Web Fullstack</strong> </li>
 </ul>
 
 <h2>🛠️ Tecnologias e Ferramentas </h2>
