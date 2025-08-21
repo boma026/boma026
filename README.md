@@ -16,7 +16,7 @@
 <h2>🛠️ Tecnologias e Ferramentas </h2>
 
 <div align="center">
-  <h5><i>< 🎨Frontend /></i></h5>
+  <h5><i> 🎨Frontend </i></h5>
   <div>
     <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
@@ -38,16 +38,12 @@
     <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
     <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
   </div>
-  
+</div>
+
 <div>
-  
   <h2>📈 Estatísticas do github </h2>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=boma026&show_icons=true&theme=radical"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boma026"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boma026&show_icons=true&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boma026"/>
 </div>
 
 
-
-
-
-</div>
