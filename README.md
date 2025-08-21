@@ -14,28 +14,32 @@
 </ul>
 
 <h2>🛠️ Tecnologias e Ferramentas </h2>
-  <div style="display: inline_block">
-  <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  
-  <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-  <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  
-  <img align="center" alt="Mysql" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<div align="center">
+  <h5><i>< 🎨Frontend /></i></h5>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1976D2" alt="Typescript"/>
+    <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react" alt="React"/>
+    <img src="https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js" alt="Next.js"/>     
+  </div>
 
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <h5><i>⚙️ Backend;</i></h5>
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/SpringBoot-0D1117?style=for-the-badge&logo=springboot" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=0FA54D" alt="Django"/>
+    <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
+  </div>
   
-  <br>
 <div>
   
   <h2>📈 Estatísticas do github </h2>
