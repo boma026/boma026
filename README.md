@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=0FA54D" alt="Django"/>
     <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
     <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=018FB4" alt="MySQL"/>
     <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
   </div>
   
