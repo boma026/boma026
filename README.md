@@ -38,8 +38,16 @@
     <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
     <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192" alt="PostgreSQL"/>
   </div>
+
+   <h5><i>🛠️ Outros</i></h5>
+    <div>
+      <img src="https://img.shields.io/badge/ReactNative-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+      <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+      <img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325" alt="Jest"/>
+    </div>
 </div>
 
+ 
 <div>
   <h2>📈 Estatísticas do github </h2>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=boma026&show_icons=true&theme=radical"/>
